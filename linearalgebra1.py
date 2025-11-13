@@ -31,11 +31,9 @@ b = np.array([
 ])
 
 print("\nAddition: \n", a + b)
-print("\nSubstraction: \n", a - b)
-
+print("\nSubtraction: \n", a - b)
 print("\nElement-wise Multiplication: \n", a * b) 
 print("\nMatrix Multiplication: \n", np.dot(a,b) )
-
 print("\nMatrix Transpose: \n", a.T)
 
 a_inv = np.linalg.inv(a) 
@@ -47,4 +45,4 @@ I = np.eye(3)
 print("\nIdentity Matrix: \n", I)
 
 D = np.diag([2, 4, 6])
-print(D)
+print("Diagonal Matrix: ", D)
