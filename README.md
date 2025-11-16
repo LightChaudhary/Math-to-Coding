@@ -37,3 +37,25 @@ Understanding how functions change using derivatives and gradients, and applying
 - Compute derivatives and partial derivatives to see how functions change.
 - Use gradients to find directions of steepest change.
 - Apply gradient descent to minimize a loss function and optimize weights in machine learning.
+
+### 2.2  Chain Rule
+Understanding how changes in weights affect the output and loss in a simple neural network:
+- Manually compute the forward pass, loss, and backpropagation steps to find how the loss changes with respect to the weight.
+- Understand how activation, chain rule, and gradients combine to update parameters in simple neural networks.
+
+## Probability 
+
+### 3.1 Probability basics and Conditional Probability 
+Exploring descriptive statistics and basic probability concepts to analyze simple datasets:
+- Compute key statistical measures: mean, median, mode, and standard deviation.
+- Analyze binary datasets to find probabilities of individual events.
+- Calculate joint probability to understand how two events occur together.
+- Use conditional probability to measure how one event affects the likelihood of another.
+
+### 3.2 Bayes' Theorem, Random variables and Distributions
+Understanding uncertainty through Bayes' rule and generating data from different probability distributions:
+- Apply Bayes’ theorem to update beliefs using prior, likelihood, and evidence.
+- Generate Bernoullis samples to simulate single yes/no outcomes.
+- Generate Binomial samples to model repeated trials with fixed probability of success.
+- Generate Normal distribution samples to observe data drawn from a bell-shaped distribution.
+
