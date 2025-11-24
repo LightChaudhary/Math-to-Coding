@@ -59,3 +59,9 @@ Understanding uncertainty through Bayes' rule and generating data from different
 - Generate Binomial samples to model repeated trials with fixed probability of success.
 - Generate Normal distribution samples to observe data drawn from a bell-shaped distribution.
 
+### 3.3 Likelihood, Correlation, Hypothesis Testing & Cross-Entropy
+Understanding statistical reasoning used in ML through probability, relationships between variables, model comparison, and loss functions:
+- Compute likelihood of coin-flip data for different probability values.
+- Calculate covariance and correlation to measure how two variables move together.
+- Perform a t-test to compare two model accuracy distributions.
+- Compute cross-entropy loss to evaluate prediction confidence for the true class.
